@@ -47,7 +47,7 @@ const Hero = () => {
                 text-eerieBlack text-[3rem] font-mova
                 font-extrabold uppercase"
               >                
-                Kruthvik K S
+        Bhoomika B S
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-gray-500`}>
